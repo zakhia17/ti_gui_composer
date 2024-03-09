@@ -1,4 +1,4 @@
-# Tutorial to GUI Composer (by Texas Instruments)
+# Tutorial to Texas Instruments GUI Composer
 by Zak Abichar
 
 March 8, 2024
