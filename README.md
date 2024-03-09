@@ -19,4 +19,18 @@ Click on the two files in this repository to access the tutorials.
 
 Testing images... Here is a picture of Earth
 
-![](/files/earth.jpg)
+![abc](/files/earth.jpg)
+
+Let's try quoting code... we're indicating that this is the C language.
+
+```C
+#define redLED BIT0
+#define greenLED BIT7
+
+int main() {
+  P1OUT |= redLED;
+  P9OUT &= ~greenLED;
+
+  return 0;
+}
+```
