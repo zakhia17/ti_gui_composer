@@ -19,4 +19,4 @@ Click on the two files in this repository to access the tutorials.
 
 Testing images... Here is a picture of Earth
 
-![abc](/files/earth.jpg)
+![](/files/earth.jpg)
