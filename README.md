@@ -1,9 +1,4 @@
 # Tutorial to Texas Instruments GUI Composer
-by Zak Abichar
-
-March 8, 2024
-
-## About
 
 In this tutorial, we will build dashboard applications that interact with the microcontroller LaunchPad board. This tutorial is provided in two versions: the __dashboard__ version and the __v3__ version described below.
 
