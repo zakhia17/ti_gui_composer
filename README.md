@@ -16,3 +16,7 @@ This is the old version of dashboard, however, it is very simple to design. It p
 This is the latest version of GUI composer. It is mostly code based and allows adding components from Web Components. Therefore, it's more versatile. However, it's a bit harder to use.
 
 Click on the two files in this repository to access the tutorials.
+
+Testing images... Here is a picture of Earth
+
+![abc](/files/earch.jpg)
